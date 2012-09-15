@@ -1,6 +1,8 @@
 # Mapa de México separado por regiones
 
-Mapa interactivo utilizando la librería [raphaêl](http://raphaeljs.com/) para trabajar con *SVG*. El mapa fué diseñado con illustrator y exportado como **Scalable Vector Graphics**
+Mapa interactivo utilizando la librería [raphaêl](http://raphaeljs.com/) para trabajar con vectores en la web. El mapa fué diseñado con illustrator y exportado como SVG.
+
+[Demo](http://ivnfco.x10.mx/map/)
 
 * Noroeste
 * Noreste
@@ -10,7 +12,5 @@ Mapa interactivo utilizando la librería [raphaêl](http://raphaeljs.com/) para 
 * Oriente
 * Suroeste
 * Sureste
-
-[Demo](http://ivnfco.x10.mx/map/)
 
 
