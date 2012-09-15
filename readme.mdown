@@ -1,0 +1,16 @@
+# Mapa de México separado por regiones
+
+Mapa interactivo utilizando la librería [raphaêl](http://raphaeljs.com/) para trabajar con *SVG*. El mapa fué diseñado con illustrator y exportado como **Scalable Vector Graphics**
+
+* Noroeste
+* Noreste
+* Centronorte
+* Centrosur
+* Occidente
+* Oriente
+* Suroeste
+* Sureste
+
+[Demo](http://ivnfco.x10.mx/map/)
+
+
