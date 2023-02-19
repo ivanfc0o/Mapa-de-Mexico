@@ -1,6 +1,8 @@
-# Mapa de México separado por regiones
+# Mapa interactivo de México separado por regiones
 
 Mapa interactivo utilizando la librería [raphaêl](http://raphaeljs.com/) para trabajar con vectores en la web. El mapa fué diseñado con illustrator y exportado como SVG.
+
+[!Imagen de muestra](https://firebasestorage.googleapis.com/v0/b/arthropod-cd97f.appspot.com/o/mapa-1.png?alt=media&token=be0081ad-997d-4181-b52a-dc2a1907f2fb)
 
 [Demo](http://ivnfco.x10.mx/map/)
 
