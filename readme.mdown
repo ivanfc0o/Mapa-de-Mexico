@@ -1,3 +1,5 @@
+![Arthropod|100](https://arthropod.tech/logo.svg)
+
 # Mapa interactivo de México separado por regiones
 
 Mapa interactivo utilizando la librería [raphaêl](http://raphaeljs.com/) para trabajar con vectores en la web. El mapa fué diseñado con illustrator y exportado como SVG.
